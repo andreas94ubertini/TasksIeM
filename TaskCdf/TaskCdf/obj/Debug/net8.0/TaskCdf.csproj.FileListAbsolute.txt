@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\bin\Debug\net8.0\TaskCdf.exe
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\bin\Debug\net8.0\TaskCdf.deps.json
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\bin\Debug\net8.0\TaskCdf.runtimeconfig.json
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\bin\Debug\net8.0\TaskCdf.dll
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\bin\Debug\net8.0\TaskCdf.pdb
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\obj\Debug\net8.0\TaskCdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\obj\Debug\net8.0\TaskCdf.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\obj\Debug\net8.0\TaskCdf.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\obj\Debug\net8.0\TaskCdf.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\obj\Debug\net8.0\TaskCdf.dll
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\obj\Debug\net8.0\refint\TaskCdf.dll
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\obj\Debug\net8.0\TaskCdf.pdb
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\obj\Debug\net8.0\TaskCdf.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy\TaskCdf\TaskCdf\obj\Debug\net8.0\ref\TaskCdf.dll

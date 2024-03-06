@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\Lez01_01_HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F119029-0630-4BE8-AF5F-5D76F2EE0A9D}|Lez01_01_HelloWorld\\Lez01_01_HelloWorld.csproj|c:\\users\\utente\\desktop\\academy\\lez01_01_helloworld\\lez01_01_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F119029-0630-4BE8-AF5F-5D76F2EE0A9D}|Lez01_01_HelloWorld\\Lez01_01_HelloWorld.csproj|solutionrelative:lez01_01_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Lez01_01_HelloWorld\\Lez01_01_HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "Lez01_01_HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Lez01_01_HelloWorld\\Lez01_01_HelloWorld\\Program.cs",
+              "RelativeToolTip": "Lez01_01_HelloWorld\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:50:42.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
