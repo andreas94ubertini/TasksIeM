@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\bin\Debug\net8.0\Lez04_Task_GestioneVeicoli.exe
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\bin\Debug\net8.0\Lez04_Task_GestioneVeicoli.deps.json
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\bin\Debug\net8.0\Lez04_Task_GestioneVeicoli.runtimeconfig.json
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\bin\Debug\net8.0\Lez04_Task_GestioneVeicoli.dll
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\bin\Debug\net8.0\Lez04_Task_GestioneVeicoli.pdb
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\obj\Debug\net8.0\Lez04_Task_GestioneVeicoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\obj\Debug\net8.0\Lez04_Task_GestioneVeicoli.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\obj\Debug\net8.0\Lez04_Task_GestioneVeicoli.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\obj\Debug\net8.0\Lez04_Task_GestioneVeicoli.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\obj\Debug\net8.0\Lez04_Task_GestioneVeicoli.sourcelink.json
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\obj\Debug\net8.0\Lez04_Task_GestioneVeicoli.dll
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\obj\Debug\net8.0\refint\Lez04_Task_GestioneVeicoli.dll
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\obj\Debug\net8.0\Lez04_Task_GestioneVeicoli.pdb
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\obj\Debug\net8.0\Lez04_Task_GestioneVeicoli.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy\Lez04_Task_GestioneVeicoli\Lez04_Task_GestioneVeicoli\obj\Debug\net8.0\ref\Lez04_Task_GestioneVeicoli.dll
