@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\bin\Debug\net8.0\Lez04_10_Task.exe
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\bin\Debug\net8.0\Lez04_10_Task.deps.json
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\bin\Debug\net8.0\Lez04_10_Task.runtimeconfig.json
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\bin\Debug\net8.0\Lez04_10_Task.dll
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\bin\Debug\net8.0\Lez04_10_Task.pdb
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\obj\Debug\net8.0\Lez04_10_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\obj\Debug\net8.0\Lez04_10_Task.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\obj\Debug\net8.0\Lez04_10_Task.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\obj\Debug\net8.0\Lez04_10_Task.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\obj\Debug\net8.0\Lez04_10_Task.sourcelink.json
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\obj\Debug\net8.0\Lez04_10_Task.dll
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\obj\Debug\net8.0\refint\Lez04_10_Task.dll
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\obj\Debug\net8.0\Lez04_10_Task.pdb
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\obj\Debug\net8.0\Lez04_10_Task.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy\Lez04_10_Task\Lez04_10_Task\obj\Debug\net8.0\ref\Lez04_10_Task.dll

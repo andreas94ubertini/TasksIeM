@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{E8732ADE-F66E-4BEA-991C-5A88E1F92E53}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|solutionrelative:lez04_04_utilizzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8732ADE-F66E-4BEA-991C-5A88E1F92E53}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|c:\\users\\utente\\desktop\\academy\\lez04_04_utilizzo\\lez04_04_utilizzo\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8732ADE-F66E-4BEA-991C-5A88E1F92E53}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|solutionrelative:lez04_04_utilizzo\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8732ADE-F66E-4BEA-991C-5A88E1F92E53}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|c:\\users\\utente\\desktop\\academy\\lez04_04_utilizzo\\lez04_04_utilizzo\\classes\\codfiscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8732ADE-F66E-4BEA-991C-5A88E1F92E53}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|solutionrelative:lez04_04_utilizzo\\classes\\codfiscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8732ADE-F66E-4BEA-991C-5A88E1F92E53}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|c:\\users\\utente\\desktop\\academy\\lez04_04_utilizzo\\lez04_04_utilizzo\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8732ADE-F66E-4BEA-991C-5A88E1F92E53}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|solutionrelative:lez04_04_utilizzo\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8732ADE-F66E-4BEA-991C-5A88E1F92E53}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|c:\\users\\utente\\desktop\\academy\\lez04_04_utilizzo\\lez04_04_utilizzo\\classes\\cartaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,12 +38,11 @@
               "RelativeToolTip": "Lez04_04_Utilizzo\\Classes\\CartaId.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T11:22:56.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T11:22:56.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CodFiscale.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Lez04_04_Utilizzo\\Lez04_04_Utilizzo\\Classes\\CodFiscale.cs",
               "RelativeDocumentMoniker": "Lez04_04_Utilizzo\\Classes\\CodFiscale.cs",
@@ -51,21 +50,19 @@
               "RelativeToolTip": "Lez04_04_Utilizzo\\Classes\\CodFiscale.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T11:22:44.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T11:22:44.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Lez04_04_Utilizzo\\Lez04_04_Utilizzo\\Classes\\Persona.cs",
               "RelativeDocumentMoniker": "Lez04_04_Utilizzo\\Classes\\Persona.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Lez04_04_Utilizzo\\Lez04_04_Utilizzo\\Classes\\Persona.cs",
               "RelativeToolTip": "Lez04_04_Utilizzo\\Classes\\Persona.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T11:22:27.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T11:22:27.77Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "Lez04_04_Utilizzo\\Program.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Lez04_04_Utilizzo\\Lez04_04_Utilizzo\\Program.cs",
               "RelativeToolTip": "Lez04_04_Utilizzo\\Program.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAowDgAAAAnAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwC0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T10:54:52.375Z",
               "EditorCaption": ""
