@@ -11,6 +11,8 @@ namespace Lez04_Task_GestioneVeicoli.Classes
         public string? Colore { get; set; }
         public double Cilindrata { get; set; }
         public string? Marca { get; set; }
+
+        
         
     }
 }

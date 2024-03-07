@@ -20,5 +20,9 @@ namespace Lez04_Task_GestioneVeicoli.Classes
         {
             Console.WriteLine($"Moto registrata, Colore: {Colore}, Cilindrata: {Cilindrata}CC, Marca: {Marca}");
         }
+        public override string ToString()
+        {
+            return $"";
+        }
     }
 }
