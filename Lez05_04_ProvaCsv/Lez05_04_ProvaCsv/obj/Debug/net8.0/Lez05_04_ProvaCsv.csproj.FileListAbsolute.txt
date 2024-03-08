@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\bin\Debug\net8.0\Lez05_04_ProvaCsv.exe
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\bin\Debug\net8.0\Lez05_04_ProvaCsv.deps.json
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\bin\Debug\net8.0\Lez05_04_ProvaCsv.runtimeconfig.json
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\bin\Debug\net8.0\Lez05_04_ProvaCsv.dll
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\bin\Debug\net8.0\Lez05_04_ProvaCsv.pdb
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\obj\Debug\net8.0\Lez05_04_ProvaCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\obj\Debug\net8.0\Lez05_04_ProvaCsv.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\obj\Debug\net8.0\Lez05_04_ProvaCsv.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\obj\Debug\net8.0\Lez05_04_ProvaCsv.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\obj\Debug\net8.0\Lez05_04_ProvaCsv.sourcelink.json
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\obj\Debug\net8.0\Lez05_04_ProvaCsv.dll
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\obj\Debug\net8.0\refint\Lez05_04_ProvaCsv.dll
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\obj\Debug\net8.0\Lez05_04_ProvaCsv.pdb
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\obj\Debug\net8.0\Lez05_04_ProvaCsv.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy\Lez05_04_ProvaCsv\Lez05_04_ProvaCsv\obj\Debug\net8.0\ref\Lez05_04_ProvaCsv.dll

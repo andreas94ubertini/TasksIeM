@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lez04_10_Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29ab1e6cdc50169698bdad8860f07fec60b3e76e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d96cbd8b1d6c00a7243fe84674ab52c040cce51")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lez04_10_Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lez04_10_Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

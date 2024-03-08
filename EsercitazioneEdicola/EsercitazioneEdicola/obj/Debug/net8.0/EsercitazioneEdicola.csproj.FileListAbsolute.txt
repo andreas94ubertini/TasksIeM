@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\bin\Debug\net8.0\EsercitazioneEdicola.exe
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\bin\Debug\net8.0\EsercitazioneEdicola.deps.json
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\bin\Debug\net8.0\EsercitazioneEdicola.runtimeconfig.json
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\bin\Debug\net8.0\EsercitazioneEdicola.dll
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\bin\Debug\net8.0\EsercitazioneEdicola.pdb
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\obj\Debug\net8.0\EsercitazioneEdicola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\obj\Debug\net8.0\EsercitazioneEdicola.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\obj\Debug\net8.0\EsercitazioneEdicola.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\obj\Debug\net8.0\EsercitazioneEdicola.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\obj\Debug\net8.0\EsercitazioneEdicola.sourcelink.json
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\obj\Debug\net8.0\EsercitazioneEdicola.dll
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\obj\Debug\net8.0\refint\EsercitazioneEdicola.dll
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\obj\Debug\net8.0\EsercitazioneEdicola.pdb
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\obj\Debug\net8.0\EsercitazioneEdicola.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy\EsercitazioneEdicola\EsercitazioneEdicola\obj\Debug\net8.0\ref\EsercitazioneEdicola.dll
