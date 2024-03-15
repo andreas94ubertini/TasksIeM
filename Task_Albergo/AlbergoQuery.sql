@@ -1,9 +1,9 @@
---DROP TABLE IF EXISTS Cliente;
---DROP TABLE IF EXISTS Prenotazione;
---DROP TABLE IF EXISTS Facility;
---DROP TABLE IF EXISTS Dipendente;
---DROP TABLE IF EXISTS Camera;
---DROP TABLE IF EXISTS Albergo;
+DROP TABLE IF EXISTS Cliente;
+DROP TABLE IF EXISTS Prenotazione;
+DROP TABLE IF EXISTS Facility;
+DROP TABLE IF EXISTS Dipendente;
+DROP TABLE IF EXISTS Camera;
+DROP TABLE IF EXISTS Albergo;
 CREATE TABLE Albergo(
 	albergoID INT PRIMARY KEY IDENTITY (1,1),
 	nome VARCHAR (150) NOT NULL,
@@ -98,7 +98,18 @@ VALUES
     ('2024-05-05', '2024-05-10', 3, 3),  -- Booking for client ID 3 in room ID 3
     ('2024-06-15', '2024-06-20', 4, 4),  -- Booking for client ID 4 in room ID 4
     ('2024-07-01', '2024-07-05', 5, 5);  -- Booking for client ID 5 in room ID 5
-INSERT INTO Prenotazione (checkIn, checkOut, clienteRIF, cameraRIF)
-VALUES
-    ('2024-03-20', '2024-03-25', 2, 1); -- Errore prenotazione doppia
+--INSERT INTO Prenotazione (checkIn, checkOut, clienteRIF, cameraRIF)
+--VALUES
+--    ('2024-03-20', '2024-03-25', 2, 1); -- Errore prenotazione doppia
+
+ 
+ CREATE TABLE Recensione(
+	recensioneID INT PRIMARY KEY IDENTITY(1,1),
+	valutazione INT CHECK (valutazione BETWEEN 1 AND 5),
+	descrizione TEXT,
+	prenotazioneRIF INT NOT NULL,
+	--FOREIGN KEY (prenotazioneRIF) REFERENCES Prenotazione(prenotazioneID) ON DELETE CASCADE
+	FOREIGN KEY (prenotazioneRIF) REFERENCES Prenotazione(prenotazioneID) ON DELETE CASCADE
+	-- Verificare se la recensione può essere inserita a fine del soggiorno (checkout riempito)
+);
 
