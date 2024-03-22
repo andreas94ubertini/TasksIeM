@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\LINQ_lez01_filtroNumeri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B9EE04-92B0-4D2D-88D4-57F412253EC1}|LINQ_lez01_filtroNumeri\\LINQ_lez01_filtroNumeri.csproj|c:\\users\\utente\\desktop\\academy\\linq_lez01_filtronumeri\\linq_lez01_filtronumeri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B9EE04-92B0-4D2D-88D4-57F412253EC1}|LINQ_lez01_filtroNumeri\\LINQ_lez01_filtroNumeri.csproj|solutionrelative:linq_lez01_filtronumeri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B9EE04-92B0-4D2D-88D4-57F412253EC1}|LINQ_lez01_filtroNumeri\\LINQ_lez01_filtroNumeri.csproj|c:\\users\\utente\\desktop\\academy\\linq_lez01_filtronumeri\\linq_lez01_filtronumeri\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B9EE04-92B0-4D2D-88D4-57F412253EC1}|LINQ_lez01_filtroNumeri\\LINQ_lez01_filtroNumeri.csproj|solutionrelative:linq_lez01_filtronumeri\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\LINQ_lez01_filtroNumeri\\LINQ_lez01_filtroNumeri\\Classes\\Studente.cs",
+              "RelativeDocumentMoniker": "LINQ_lez01_filtroNumeri\\Classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\LINQ_lez01_filtroNumeri\\LINQ_lez01_filtroNumeri\\Classes\\Studente.cs",
+              "RelativeToolTip": "LINQ_lez01_filtroNumeri\\Classes\\Studente.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:07:46.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\LINQ_lez01_filtroNumeri\\LINQ_lez01_filtroNumeri\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_lez01_filtroNumeri\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\LINQ_lez01_filtroNumeri\\LINQ_lez01_filtroNumeri\\Program.cs",
+              "RelativeToolTip": "LINQ_lez01_filtroNumeri\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:48:22.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\dal\\prestitidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\dal\\prestitidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Libreria\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Models\\Libro.cs",
+              "RelativeToolTip": "Libreria\\Models\\Libro.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:25:49.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Utilities\\Config.cs",
+              "RelativeDocumentMoniker": "Libreria\\Utilities\\Config.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Utilities\\Config.cs*",
+              "RelativeToolTip": "Libreria\\Utilities\\Config.cs*",
+              "ViewState": "AQIAABcAAAAAAAAAAAAywCQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:11:16.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\appSettings.json",
+              "RelativeDocumentMoniker": "Libreria\\appSettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\appSettings.json",
+              "RelativeToolTip": "Libreria\\appSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAC0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T15:04:52.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrestitiDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\DAL\\PrestitiDal.cs",
+              "RelativeDocumentMoniker": "Libreria\\DAL\\PrestitiDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\DAL\\PrestitiDal.cs",
+              "RelativeToolTip": "Libreria\\DAL\\PrestitiDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:59:57.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\DAL\\LibroDal.cs",
+              "RelativeDocumentMoniker": "Libreria\\DAL\\LibroDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\DAL\\LibroDal.cs",
+              "RelativeToolTip": "Libreria\\DAL\\LibroDal.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAIwGoAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:57:43.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UtenteDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\DAL\\UtenteDal.cs",
+              "RelativeDocumentMoniker": "Libreria\\DAL\\UtenteDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\DAL\\UtenteDal.cs",
+              "RelativeToolTip": "Libreria\\DAL\\UtenteDal.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:55:37.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Program.cs",
+              "RelativeDocumentMoniker": "Libreria\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Program.cs*",
+              "RelativeToolTip": "Libreria\\Program.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:28:56.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

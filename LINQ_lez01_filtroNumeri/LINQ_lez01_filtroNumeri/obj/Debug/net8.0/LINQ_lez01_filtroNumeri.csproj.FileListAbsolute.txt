@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\bin\Debug\net8.0\LINQ_lez01_filtroNumeri.exe
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\bin\Debug\net8.0\LINQ_lez01_filtroNumeri.deps.json
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\bin\Debug\net8.0\LINQ_lez01_filtroNumeri.runtimeconfig.json
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\bin\Debug\net8.0\LINQ_lez01_filtroNumeri.dll
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\bin\Debug\net8.0\LINQ_lez01_filtroNumeri.pdb
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\obj\Debug\net8.0\LINQ_lez01_filtroNumeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\obj\Debug\net8.0\LINQ_lez01_filtroNumeri.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\obj\Debug\net8.0\LINQ_lez01_filtroNumeri.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\obj\Debug\net8.0\LINQ_lez01_filtroNumeri.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\obj\Debug\net8.0\LINQ_lez01_filtroNumeri.sourcelink.json
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\obj\Debug\net8.0\LINQ_lez01_filtroNumeri.dll
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\obj\Debug\net8.0\refint\LINQ_lez01_filtroNumeri.dll
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\obj\Debug\net8.0\LINQ_lez01_filtroNumeri.pdb
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\obj\Debug\net8.0\LINQ_lez01_filtroNumeri.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy\LINQ_lez01_filtroNumeri\LINQ_lez01_filtroNumeri\obj\Debug\net8.0\ref\LINQ_lez01_filtroNumeri.dll

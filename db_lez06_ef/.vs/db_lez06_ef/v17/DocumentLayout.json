@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{722768B4-9746-421D-B1B7-0AA0FB0DC45E}|db_lez06_ef\\db_lez06_ef.csproj|c:\\users\\utente\\desktop\\academy\\db_lez06_ef\\db_lez06_ef\\models\\cartum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722768B4-9746-421D-B1B7-0AA0FB0DC45E}|db_lez06_ef\\db_lez06_ef.csproj|solutionrelative:db_lez06_ef\\models\\cartum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722768B4-9746-421D-B1B7-0AA0FB0DC45E}|db_lez06_ef\\db_lez06_ef.csproj|c:\\users\\utente\\desktop\\academy\\db_lez06_ef\\db_lez06_ef\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722768B4-9746-421D-B1B7-0AA0FB0DC45E}|db_lez06_ef\\db_lez06_ef.csproj|solutionrelative:db_lez06_ef\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722768B4-9746-421D-B1B7-0AA0FB0DC45E}|db_lez06_ef\\db_lez06_ef.csproj|c:\\users\\utente\\desktop\\academy\\db_lez06_ef\\db_lez06_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722768B4-9746-421D-B1B7-0AA0FB0DC45E}|db_lez06_ef\\db_lez06_ef.csproj|solutionrelative:db_lez06_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722768B4-9746-421D-B1B7-0AA0FB0DC45E}|db_lez06_ef\\db_lez06_ef.csproj|c:\\users\\utente\\desktop\\academy\\db_lez06_ef\\db_lez06_ef\\models\\acclez07otmcartacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722768B4-9746-421D-B1B7-0AA0FB0DC45E}|db_lez06_ef\\db_lez06_ef.csproj|solutionrelative:db_lez06_ef\\models\\acclez07otmcartacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722768B4-9746-421D-B1B7-0AA0FB0DC45E}|db_lez06_ef\\db_lez06_ef.csproj|c:\\users\\utente\\desktop\\academy\\db_lez06_ef\\db_lez06_ef\\db_lez06_ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{722768B4-9746-421D-B1B7-0AA0FB0DC45E}|db_lez06_ef\\db_lez06_ef.csproj|solutionrelative:db_lez06_ef\\db_lez06_ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\db_lez06_ef\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "db_lez06_ef\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\db_lez06_ef\\Models\\Persona.cs",
+              "RelativeToolTip": "db_lez06_ef\\Models\\Persona.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:33:46.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cartum.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\db_lez06_ef\\Models\\Cartum.cs",
+              "RelativeDocumentMoniker": "db_lez06_ef\\Models\\Cartum.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\db_lez06_ef\\Models\\Cartum.cs",
+              "RelativeToolTip": "db_lez06_ef\\Models\\Cartum.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:02:44.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccLez07OtmCartaContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\db_lez06_ef\\Models\\AccLez07OtmCartaContext.cs",
+              "RelativeDocumentMoniker": "db_lez06_ef\\Models\\AccLez07OtmCartaContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\db_lez06_ef\\Models\\AccLez07OtmCartaContext.cs",
+              "RelativeToolTip": "db_lez06_ef\\Models\\AccLez07OtmCartaContext.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:01:21.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "db_lez06_ef",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\db_lez06_ef\\db_lez06_ef.csproj",
+              "RelativeDocumentMoniker": "db_lez06_ef\\db_lez06_ef.csproj",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\db_lez06_ef\\db_lez06_ef.csproj",
+              "RelativeToolTip": "db_lez06_ef\\db_lez06_ef.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T14:51:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\db_lez06_ef\\Program.cs",
+              "RelativeDocumentMoniker": "db_lez06_ef\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\db_lez06_ef\\db_lez06_ef\\Program.cs*",
+              "RelativeToolTip": "db_lez06_ef\\Program.cs*",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:34:38.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

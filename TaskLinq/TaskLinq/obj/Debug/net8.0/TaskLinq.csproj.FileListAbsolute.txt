@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\bin\Debug\net8.0\TaskLinq.exe
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\bin\Debug\net8.0\TaskLinq.deps.json
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\bin\Debug\net8.0\TaskLinq.runtimeconfig.json
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\bin\Debug\net8.0\TaskLinq.dll
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\bin\Debug\net8.0\TaskLinq.pdb
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\obj\Debug\net8.0\TaskLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\obj\Debug\net8.0\TaskLinq.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\obj\Debug\net8.0\TaskLinq.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\obj\Debug\net8.0\TaskLinq.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\obj\Debug\net8.0\TaskLinq.sourcelink.json
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\obj\Debug\net8.0\TaskLinq.dll
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\obj\Debug\net8.0\refint\TaskLinq.dll
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\obj\Debug\net8.0\TaskLinq.pdb
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\obj\Debug\net8.0\TaskLinq.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy\TaskLinq\TaskLinq\obj\Debug\net8.0\ref\TaskLinq.dll
