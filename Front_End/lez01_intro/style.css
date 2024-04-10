@@ -1,0 +1,25 @@
+table, .menu, .menuUno{
+    border: 1px solid black
+}
+
+img{
+    width: 150px;
+}
+.heading{
+    padding: 0px 50px;
+}
+.footer{
+    border-top: 1px solid black;
+    text-align: center;
+    width: 100%;
+}
+.menu{
+    padding: 60px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+table{
+    width: 100% ;
+}

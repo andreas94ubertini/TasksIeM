@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\dal\\prestitidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\dal\\prestitidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\dal\\prestitidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|solutionrelative:libreria\\dal\\prestitidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D31E528A-EBA4-4F21-A986-8B870A96E949}|Libreria\\Libreria.csproj|c:\\users\\utente\\desktop\\academy\\libreria\\libreria\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -58,16 +58,16 @@
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Utilities\\Config.cs",
               "RelativeDocumentMoniker": "Libreria\\Utilities\\Config.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Utilities\\Config.cs*",
-              "RelativeToolTip": "Libreria\\Utilities\\Config.cs*",
-              "ViewState": "AQIAABcAAAAAAAAAAAAywCQAAAAmAAAA",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Utilities\\Config.cs",
+              "RelativeToolTip": "Libreria\\Utilities\\Config.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T15:11:16.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appSettings.json",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\appSettings.json",
               "RelativeDocumentMoniker": "Libreria\\appSettings.json",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PrestitiDal.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\DAL\\PrestitiDal.cs",
               "RelativeDocumentMoniker": "Libreria\\DAL\\PrestitiDal.cs",
@@ -88,8 +88,7 @@
               "RelativeToolTip": "Libreria\\DAL\\PrestitiDal.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:59:57.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:59:57.559Z"
             },
             {
               "$type": "Document",
@@ -117,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Program.cs",
               "RelativeDocumentMoniker": "Libreria\\Program.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Program.cs*",
-              "RelativeToolTip": "Libreria\\Program.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAANAAAA",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Libreria\\Libreria\\Program.cs",
+              "RelativeToolTip": "Libreria\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T14:28:56.84Z",
               "EditorCaption": ""

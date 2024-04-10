@@ -1,34 +1,28 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TaskUni.Models;
 
+
 namespace TaskUni
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            using(var ctx = new  AccLez09MtmUniContext())
+            Variazione variazione = new Variazione()
             {
-                try
-                {
-                    // elenco tutti gli esami a cui è iscritto uno studente
-                    // elenco di tutti gli studenti iscritti ad un esame
-
-                    
-
-                    Studente s = ctx.Studentes.Include(s => s.EsameRifs).Single(s => s.StudenteId == 1);
-                    Esame e = ctx.Esames.Include(e => e.StudenteRifs).Single(e => e.EsameId == 5);
+                ProdottoRif = 2,
+                Colore = "Juan Jesus",
+                Qt = 1,
+                Taglia = "XXL",
 
 
+            };
 
-
-
-
-                }
-                catch (Exception ex)
-                {
-
-                }
+            using (var db = new AbbigliamentoTaskContext())
+            {
+                db.Variaziones.Add(variazione);
+                
+                db.SaveChanges();
             }
         }
     }

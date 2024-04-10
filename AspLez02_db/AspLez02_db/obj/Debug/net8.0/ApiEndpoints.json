@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AspLez02_db.Controllers.LibroController",
+    "Method": "Elenco",
+    "RelativePath": "api/libri",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AspLez02_db.Controllers.LibroController",
+    "Method": "GetByCod",
+    "RelativePath": "api/libri/getlibro/{s}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "s",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

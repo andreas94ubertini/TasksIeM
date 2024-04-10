@@ -1,0 +1,11 @@
+<div class="card my-4" *ngFor="let prod of listaProd">
+    <div class="card-header d-flex justify-content-between">
+        <p>{{prod.nome}}</p>
+        <p>{{prod.codice}}</p>
+        
+    </div>
+    <div class="card-body">
+        <p>{{prod.descrizione}}</p>
+        <p>{{prod.prezzo}} Eur</p>
+    </div>
+</div>

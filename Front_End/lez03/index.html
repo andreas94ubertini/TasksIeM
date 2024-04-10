@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+<body>
+<div class="container">
+    <div class="row justify-content-center pt-5">
+        <div class="col-4 p-5 border rounded-1">
+            <h2>Inserisci dati</h2>
+            <div class="form-group">
+                <input class="form-control mt-2" type="text" id="nome" placeholder="Nome">
+                <input class="form-control mt-2" type="text" id="cognome" placeholder="Cognome">
+                <input class="form-control mt-2" type="text" id="telefono" placeholder="Telefono">
+                <button id="btn" class="btn btn-primary btn-block mt-2" onclick="salva()">Salva</button>
+            </div>
+        </div>
+        <div class="col-8 border rounded-1">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Nome</th>
+                        <th>Cognome</th>
+                        <th>Telefono</th>
+                    </tr>
+                </thead>
+                <tbody id="corpo-tabella">
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>

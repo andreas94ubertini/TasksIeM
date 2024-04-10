@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30A4258D-7F62-4308-807B-2FE7DEA8C38E}|AspLez01_intro\\AspLez01_intro.csproj|c:\\users\\utente\\desktop\\academy\\asplez01_intro\\asplez01_intro\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A4258D-7F62-4308-807B-2FE7DEA8C38E}|AspLez01_intro\\AspLez01_intro.csproj|solutionrelative:asplez01_intro\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A4258D-7F62-4308-807B-2FE7DEA8C38E}|AspLez01_intro\\AspLez01_intro.csproj|c:\\users\\utente\\desktop\\academy\\asplez01_intro\\asplez01_intro\\controllers\\studentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A4258D-7F62-4308-807B-2FE7DEA8C38E}|AspLez01_intro\\AspLez01_intro.csproj|solutionrelative:asplez01_intro\\controllers\\studentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A4258D-7F62-4308-807B-2FE7DEA8C38E}|AspLez01_intro\\AspLez01_intro.csproj|c:\\users\\utente\\desktop\\academy\\asplez01_intro\\asplez01_intro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30A4258D-7F62-4308-807B-2FE7DEA8C38E}|AspLez01_intro\\AspLez01_intro.csproj|solutionrelative:asplez01_intro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A4258D-7F62-4308-807B-2FE7DEA8C38E}|AspLez01_intro\\AspLez01_intro.csproj|c:\\users\\utente\\desktop\\academy\\asplez01_intro\\asplez01_intro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30A4258D-7F62-4308-807B-2FE7DEA8C38E}|AspLez01_intro\\AspLez01_intro.csproj|solutionrelative:asplez01_intro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A4258D-7F62-4308-807B-2FE7DEA8C38E}|AspLez01_intro\\AspLez01_intro.csproj|c:\\users\\utente\\desktop\\academy\\asplez01_intro\\asplez01_intro\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A4258D-7F62-4308-807B-2FE7DEA8C38E}|AspLez01_intro\\AspLez01_intro.csproj|solutionrelative:asplez01_intro\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\AspLez01_intro\\appsettings.json",
+              "RelativeDocumentMoniker": "AspLez01_intro\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\AspLez01_intro\\appsettings.json",
+              "RelativeToolTip": "AspLez01_intro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T14:44:33.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\AspLez01_intro\\Models\\Studente.cs",
+              "RelativeDocumentMoniker": "AspLez01_intro\\Models\\Studente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\AspLez01_intro\\Models\\Studente.cs",
+              "RelativeToolTip": "AspLez01_intro\\Models\\Studente.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:03:03.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudenteController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\AspLez01_intro\\Controllers\\StudenteController.cs",
+              "RelativeDocumentMoniker": "AspLez01_intro\\Controllers\\StudenteController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\AspLez01_intro\\Controllers\\StudenteController.cs",
+              "RelativeToolTip": "AspLez01_intro\\Controllers\\StudenteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:43:20.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\AspLez01_intro\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AspLez01_intro\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\AspLez01_intro\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AspLez01_intro\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T10:44:12.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\AspLez01_intro\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "AspLez01_intro\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\AspLez01_intro\\AspLez01_intro\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "AspLez01_intro\\Controllers\\HelloController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvx4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:40:53.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

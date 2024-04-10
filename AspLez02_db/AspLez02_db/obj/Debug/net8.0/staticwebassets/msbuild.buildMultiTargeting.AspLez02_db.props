@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspLez02_db.props" />
+</Project>

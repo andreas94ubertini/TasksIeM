@@ -1,0 +1,26 @@
+﻿<Window x:Class="WPF_lez01_Integrazione.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_lez01_Integrazione"
+        mc:Ignorable="d"
+        Title="HelloWorld" Height="400" Width="400">
+    <Grid>
+        <StackPanel>
+            <Button Name="Secondo" Click="Chiusura_Evento" Content="Chiudi"></Button>
+            <Button Name="Saluta" Click="Saluta_Click" Content="Ciao" RenderTransformOrigin="0.5,0.5" Height="19">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleX="-2.607"/>
+                        <RotateTransform/>
+                        <TranslateTransform X="-0.454"/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+
+
+        </StackPanel>
+    </Grid>
+</Window>

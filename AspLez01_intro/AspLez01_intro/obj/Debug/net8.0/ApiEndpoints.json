@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "AspLez01_intro.Controllers.StudenteController",
+    "Method": "GetStudente",
+    "RelativePath": "api/studente/dettaglio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AspLez01_intro.Controllers.StudenteController",
+    "Method": "TestGet",
+    "RelativePath": "api/studente/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AspLez01_intro.Controllers.StudenteController",
+    "Method": "TestPost",
+    "RelativePath": "api/studente/test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

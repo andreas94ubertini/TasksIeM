@@ -1,0 +1,6 @@
+@AspLez01_intro_HostAddress = http://localhost:5062
+
+GET {{AspLez01_intro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
