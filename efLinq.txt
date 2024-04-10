@@ -1,0 +1,2 @@
+                    Studente s = ctx.Studentes.Include(s => s.EsameRifs).Single(s => s.StudenteId == 1);
+                    Esame e = ctx.Esames.Include(e=> e.StudenteRifs).Single(e=> e.EsameId== 5);
