@@ -4,3 +4,4 @@
 ## rombo vuoto: aggregazione(array), il contenitore non può essere mai null e va inizializzato subito
 ## rombo pieno: composizione, il contenitore viene creato solo quando c'è almeno 1 elemento
 ## freccia con barra verticale parametro opzionale
+## "#" Protected

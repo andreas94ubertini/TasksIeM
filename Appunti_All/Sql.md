@@ -75,3 +75,6 @@ corruzione dovuta a malfunzionamenti hardware e software;
 - Cursore: protoforma di ciclo
 - connessione, canale di comunicazione
 - connection pool, canali di comincazione sql max 100
+
+- Left join tutti i campi della tabella di sinistra più quelli in comune
+- View Tabella vuota che verrà riempita al momento del richiamo della view
